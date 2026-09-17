@@ -13,9 +13,9 @@ The project combines **Python, machine learning, data processing, and applicatio
 ```text
 DiabetesPredictionMain_App/
 │
-├── Diabetes.csv
-├── DiabetesPred.css
-├── DiabetesPredMain_app.py
+├── diabetes.csv
+├── diabetes-pred.css
+├── diabetes-pred-main-app.py
 ├── classifier.pkl
 ├── requirements.txt
 └── README.md
@@ -25,10 +25,10 @@ DiabetesPredictionMain_App/
 
 | File                      | Description                                   |
 | ------------------------- | --------------------------------------------- |
-| `DiabetesPredMain_app.py` | Main Python application                       |
-| `Diabetes.csv`            | Dataset used by the project                   |
+| `diabetes-pred-main-app.py` | Main Python application                       |
+| `diabetes.csv`            | Dataset used by the project                   |
 | `classifier.pkl`          | Trained machine learning classification model |
-| `DiabetesPred.css`        | Application styling                           |
+| `diabetesPred.css`        | Application styling                           |
 | `requirements.txt`        | Python dependencies                           |
 
 ## Technologies
